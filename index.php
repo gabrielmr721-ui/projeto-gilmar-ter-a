@@ -1,5 +1,5 @@
 <?php
-// Define a chave da API e a URL da API
+// Define a chave da API e a URL da APi
 // ALERTA: Em um projeto real, a chave de API NUNCA deve ser hardcoded no código!
 $api_key = "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"; // Sua chave de API
 // Usamos o endpoint de chat/completions, que é o padrão atual para LLMs
